@@ -20,6 +20,19 @@ Accidents_by_DayPart	Pivot table: time of day + weather conditions
 Accidents_vs_Month	Distribution of accidents by month
 Road_Accident_Data	Raw data (imported)
 Metadata	Variable descriptions
+# Accidents Analysis
+
+## 1. Accidents by DayPart
+![Accidents by DayPart](./preview/Accidents_by_DayPart.png)
+
+## 2. Accidents by Month
+![Accidents by Month](./preview/Accidents_vs_Month.png)
+
+## 3. Accidents by Weather Conditions
+![Accidents by Weather Conditions](./preview/Accidents_vs_Weather_Conditions.png)
+====================================================================================================================================================
+Final Report
+![Accidents Final Report](./preview/Final_report.png)
 
 🔎 Key Insights
 Most dangerous conditions: daytime (12:00–18:00), clear weather with no wind → accident likelihood ~80%
